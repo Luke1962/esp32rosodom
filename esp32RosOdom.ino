@@ -2224,7 +2224,8 @@ void setup_wifi() {
 
 
 			// inizializza le variabili e i messaggi ROS------------------------
-			dbg("\n[tsk_ros CONNECTING...]");
+			dbg("\n[tsk_ros CONNECT...]");
+			dbgD("\n[tsk_ros CONNECT...]");
 			ros_initialize(thisSystem.ros_master_uri);
 
 

@@ -1,0 +1,17 @@
+Release/esp32RosOdom.partitions.bin
+__vm/.esp32RosOdom.vsarduino.h
+__vm/Compile.vmps.xml
+__vm/Configuration.Release.vmps.xml
+__vm/Upload.vmps.xml
+esp32RosOdom.vcxproj
+esp32RosOdom.vcxproj.filters
+esp32RosOdom.vcxproj.user
+Release/board.buildinfo
+Release/core.a
+Release/esp32RosOdom.bin
+Release/esp32RosOdom.cpp.d
+Release/esp32RosOdom.cpp.o
+Release/esp32RosOdom.ino.bin
+Release/esp32RosOdom.ino.elf
+Release/esp32RosOdom.ino.partitions.bin
+Release/esp32RosOdom.log
